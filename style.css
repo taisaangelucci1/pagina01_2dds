@@ -10,7 +10,7 @@
     
     header{
     background-color: #3a76b0;
-    color: white;
+    color: #3a76b0;
     width: 100%;
     padding: 20px;
     
@@ -63,7 +63,7 @@
     }
     
     .estudante{
-    background-image: background-color(#FFF6E9);
+    background-image: background-color(#3a76b0);
     padding: 24px 0;
     }
     
@@ -78,7 +78,7 @@
     
     .escola{
     background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: white;
+    color: #3a76b0;
     display: flex;
     justify-content:center;
     padding: 24px 0;
